@@ -34,12 +34,13 @@ Developed an STM32-based embedded system that reads temperature over I²C, provi
 
 **Technologies:** STM32 • Embedded C • I²C • PWM • DMA • LCD • NeoPixel
 
-### ☀️ Smart Solar Microgrid with Battery Management System
+### 🔋 Intelligent Battery Management System with Wireless Monitoring
 
 **Capstone Project — In Progress**
 
-Developing a low-voltage solar microgrid integrating solar generation, battery energy storage, battery management, load prioritization, and embedded energy-management control.
+Developing a Battery Management System (BMS) to monitor and protect a multi-cell battery pack, with wireless monitoring of battery performance and system status.
 
+**My focus:** Battery monitoring and protection, including cell voltage, current and temperature monitoring, fault protection, and cell balancing.
 
 
 - LinkedIn: *Coming soon*
